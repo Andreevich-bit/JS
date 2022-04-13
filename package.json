@@ -1,8 +1,0 @@
-{
-	"name": "simpleapp",
-	"version": "0.0.1",
-	"author": "Buyanov K.M.",
-	"scripts": {
-		"start": "node Event-loop.js"
-	}
-}
